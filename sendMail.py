@@ -7,7 +7,7 @@ import os
 
 def sendToGmail(filename):
 	gmail_user = 'yuanpeng.wu'
-	gmail_pwd = 'wyp102938'
+	gmail_pwd = 'YourPassword'
 
 	# Read a file
 
